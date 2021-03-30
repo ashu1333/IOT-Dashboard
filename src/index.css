@@ -1,0 +1,271 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+#box1 { width: 85%; margin: 0px auto; padding: 15px 15px; min-height: 460px; }
+#box2 { width: 85%; margin: 0px auto; padding: 15px 15px; min-height: 320px; }
+#tSetting {box-shadow: 0px 0px 14px 5px #C45FA4, 0px 0px 14px 5px #C45FA4 inset;
+  box-sizing: border-box;
+  height: 595.55px;
+  width: 169.55px;
+  border: 2.55px solid #FFFFFF;
+  border-radius: 10px; 
+  background-color: #fff !important; margin-right:3%; margin-left: 2%;
+text-align: center;
+}
+#tSettingTitle {
+  color: #C45FA4;
+    font-family: "Bebas Neue";
+    font-size: 27px;
+    font-weight: bold;
+    letter-spacing: 2.04px;
+    line-height: 32px;
+    text-align: center;
+}
+#tSettingCounting {
+  height: 110px;
+  width: 100%;
+  color: #000000;
+  font-family: "Bebas Neue";
+  font-size: 92px;
+  font-weight: bold;
+  letter-spacing: 6.94px;
+  line-height: 110px;
+  text-align: center;
+}
+
+
+#tSupply {box-shadow: 0px 0px 14px 5px #EF8880, 0px 0px 14px 5px #EF8880 inset;
+  box-sizing: border-box;
+  height: 591.55px;
+  width: 643.55px;
+  border: 2.55px solid #FFFFFF;
+  border-radius: 10px;
+  background-color: #fff !important; margin-right:3%;}
+
+  #tSupply1 {box-shadow: 0px 0px 14px 5px #EF8880, 0px 0px 14px 5px #EF8880 inset;
+    box-sizing: border-box;
+    height: 280px;
+    width: 643.55px;
+    border: 2.55px solid #FFFFFF;
+    border-radius: 10px;
+    background-color: #fff !important; margin-right:3%;}
+
+  #tSupplyTitle {
+    color: #EF8880;
+        font-family: "Bebas Neue";
+        font-size: 46px;
+        font-weight: bold;
+        letter-spacing: 3.47px;
+        line-height: 56px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    #tSupplyBox {
+    box-sizing: border-box;
+    width: 90%;
+    margin: 15px auto;
+    text-align: center;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-bottom: 30px;
+    }
+    #tipImage {height: 148px;
+      width: 148px;
+      margin-top: 40px;}
+    #tSupplytext {margin-top:25px;
+      height: 16px;
+      color: #000000;
+      font-family: "Futura";
+      font-size: 16px;
+      font-weight: bold;
+      letter-spacing: .5px;
+      line-height: 27px;
+      text-align: center;
+    }
+
+    #tSupplyBox1 {
+      box-sizing: border-box;
+      width: 45%; float: left;
+      margin: 15px 5px;
+      text-align: center;
+      border: 1px solid #000;
+      border-radius: 10px;
+      background-color: #FFFFFF;
+      display: -webkit-box;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      flex-direction: column;
+      -webkit-box-align: center;
+      align-items: center;
+      padding-bottom: 30px;
+      }
+      #tipImage1 {height: auto;
+        width: 120px;
+        margin-top: 40px;}
+      #tSupplytext1 {margin-top:25px;
+        height: 16px;
+        color: #000000;
+        font-family: "Futura";
+        font-size: 16px;
+        font-weight: bold;
+        letter-spacing: 1.21px;
+        line-height: 20px;
+        text-align: center;
+      }
+
+      #tSupplyDevide {
+    height: 4px;
+    border: none;
+    margin-top: 35px;
+    color: black;
+    background-color: black;
+    width: 90%; margin: 35px auto 0  auto;
+      }
+      #tSupplyDevidew {
+        height: 3px;
+        border: none;
+        margin-top: 35px;
+        color: #fff;
+        background-color: #fff;
+        width: 96%;  
+          }
+    
+#tTreatment {box-shadow: 0px 0px 14px 5px #43AAC5, 0px 0px 14px 5px #43AAC5 inset;
+  box-sizing: border-box;
+  height: 596.55px;
+  width: 803.55px;
+  border: 2.55px solid #FFFFFF;
+  border-radius: 10px;
+  background-color: #FFF; }
+
+  #tTreatment1 {box-shadow: 0px 0px 14px 5px #43AAC5, 0px 0px 14px 5px #43AAC5 inset;
+    box-sizing: border-box;
+    height: 260px;
+    width: 803.55px;
+    border: 2.55px solid #FFFFFF;
+    border-radius: 10px;
+    background-color: #FFF; margin-bottom: 35px; }
+
+  #tTreatmentTitle {
+    color: #43AAC5;
+        font-family: "Bebas Neue";
+        font-size: 46px;
+        font-weight: bold;
+        letter-spacing: 3.47px;
+        line-height: 56px;
+        text-align: center;
+        margin-top: 10px;
+    }
+    #tTreatmentBox {
+      width: 130px;
+      float: left;
+      margin-left: 20px;
+      margin-top: 1rem;
+      float: left;
+    }
+#tTreatmentimg 
+{
+    width: 130px;
+    margin-bottom: 5px;
+    box-shadow: 1px 4px 4px 3px rgba(0, 0, 0, 0.5);
+    border-radius: .3rem!important;
+    max-width: 100%;  
+  }
+#tTreatmentBoxtitle {
+  height: 14px;
+  color: #000000;
+  font-family: "Futura";
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 1.21px;
+  line-height: 20px;
+  text-align: center;
+  margin-bottom: 10px;;
+}
+ 
+#cstart { text-align: center; background: #43AAC5; width: 240px; border: 5px solid #fff; 
+  height: 240px; border: 5px; border-radius: 50%; font-size: 50px; line-height: 240px; margin-top: 10%; 
+  color: #fff; font-weight: lighter; }
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ 
+#nextB { padding-right: 5px; margin-top: 25px; margin-left: 25px; }
+#prevB { padding-left: 10px; margin-top: 25px; margin-left: 20px; }
+
+#VICON_IMG { max-width:65%; margin:10px auto; }
+#VICON_MINUS { width:65px; position: absolute; left: 0px; top: 40%; }
+#VICON_PLUS { width:65px; position: absolute; right: 0px; top: 40%; }
+#video_area {position: relative; text-align: center;}
+
+#VICON_IMG { max-width:65%; margin:10px auto; }
+#VICON_IMG { max-width:65%; margin:10px auto; }
+
+#VICON_BUTTON1  { max-width:90%; margin:10px auto; }
+#VICON_BUTTON2  { max-width:90%; margin:10px auto; }
+
+
+
+@media (min-width: 576px) {
+  #container {
+   max-width: 540px;
+  }
+  }
+  @media (min-width: 768px) {
+    #container {
+     max-width: 720px;
+    }
+    }
+
+    @media (min-width: 992px) {
+      #container {
+       max-width: 960px;
+      }
+      }
+    @media (min-width: 1200px) {
+    #container {
+     max-width: 1140px;
+    }
+    }
+    @media screen and (min-width: 1400px) {
+      #container {
+      max-width:1200px
+      }
+      }
+      @media screen and (min-width: 1600px) {
+      #container {
+      max-width:1400px
+      }
+      }
+      @media screen and (min-width: 1920px) {
+      #container {
+      max-width:1600px
+      }
+      }
+
+  #container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    z-index: 999;
+  }
